@@ -1,0 +1,14 @@
+C:\Users\LENOVO Y\source\repos\oop-5\oop-5\bin\Debug\netcoreapp3.1\oop-5.exe
+C:\Users\LENOVO Y\source\repos\oop-5\oop-5\bin\Debug\netcoreapp3.1\oop-5.deps.json
+C:\Users\LENOVO Y\source\repos\oop-5\oop-5\bin\Debug\netcoreapp3.1\oop-5.runtimeconfig.json
+C:\Users\LENOVO Y\source\repos\oop-5\oop-5\bin\Debug\netcoreapp3.1\oop-5.runtimeconfig.dev.json
+C:\Users\LENOVO Y\source\repos\oop-5\oop-5\bin\Debug\netcoreapp3.1\oop-5.dll
+C:\Users\LENOVO Y\source\repos\oop-5\oop-5\bin\Debug\netcoreapp3.1\oop-5.pdb
+C:\Users\LENOVO Y\source\repos\oop-5\oop-5\obj\Debug\netcoreapp3.1\oop-5.csproj.AssemblyReference.cache
+C:\Users\LENOVO Y\source\repos\oop-5\oop-5\obj\Debug\netcoreapp3.1\oop-5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO Y\source\repos\oop-5\oop-5\obj\Debug\netcoreapp3.1\oop-5.AssemblyInfoInputs.cache
+C:\Users\LENOVO Y\source\repos\oop-5\oop-5\obj\Debug\netcoreapp3.1\oop-5.AssemblyInfo.cs
+C:\Users\LENOVO Y\source\repos\oop-5\oop-5\obj\Debug\netcoreapp3.1\oop-5.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO Y\source\repos\oop-5\oop-5\obj\Debug\netcoreapp3.1\oop-5.dll
+C:\Users\LENOVO Y\source\repos\oop-5\oop-5\obj\Debug\netcoreapp3.1\oop-5.pdb
+C:\Users\LENOVO Y\source\repos\oop-5\oop-5\obj\Debug\netcoreapp3.1\oop-5.genruntimeconfig.cache
