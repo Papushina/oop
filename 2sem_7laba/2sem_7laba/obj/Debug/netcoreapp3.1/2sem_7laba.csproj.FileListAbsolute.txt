@@ -1,0 +1,14 @@
+C:\Users\LENOVO Y\source\repos\2sem_7laba\2sem_7laba\bin\Debug\netcoreapp3.1\2sem_7laba.exe
+C:\Users\LENOVO Y\source\repos\2sem_7laba\2sem_7laba\bin\Debug\netcoreapp3.1\2sem_7laba.deps.json
+C:\Users\LENOVO Y\source\repos\2sem_7laba\2sem_7laba\bin\Debug\netcoreapp3.1\2sem_7laba.runtimeconfig.json
+C:\Users\LENOVO Y\source\repos\2sem_7laba\2sem_7laba\bin\Debug\netcoreapp3.1\2sem_7laba.runtimeconfig.dev.json
+C:\Users\LENOVO Y\source\repos\2sem_7laba\2sem_7laba\bin\Debug\netcoreapp3.1\2sem_7laba.dll
+C:\Users\LENOVO Y\source\repos\2sem_7laba\2sem_7laba\bin\Debug\netcoreapp3.1\2sem_7laba.pdb
+C:\Users\LENOVO Y\source\repos\2sem_7laba\2sem_7laba\obj\Debug\netcoreapp3.1\2sem_7laba.csproj.AssemblyReference.cache
+C:\Users\LENOVO Y\source\repos\2sem_7laba\2sem_7laba\obj\Debug\netcoreapp3.1\2sem_7laba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO Y\source\repos\2sem_7laba\2sem_7laba\obj\Debug\netcoreapp3.1\2sem_7laba.AssemblyInfoInputs.cache
+C:\Users\LENOVO Y\source\repos\2sem_7laba\2sem_7laba\obj\Debug\netcoreapp3.1\2sem_7laba.AssemblyInfo.cs
+C:\Users\LENOVO Y\source\repos\2sem_7laba\2sem_7laba\obj\Debug\netcoreapp3.1\2sem_7laba.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO Y\source\repos\2sem_7laba\2sem_7laba\obj\Debug\netcoreapp3.1\2sem_7laba.dll
+C:\Users\LENOVO Y\source\repos\2sem_7laba\2sem_7laba\obj\Debug\netcoreapp3.1\2sem_7laba.pdb
+C:\Users\LENOVO Y\source\repos\2sem_7laba\2sem_7laba\obj\Debug\netcoreapp3.1\2sem_7laba.genruntimeconfig.cache
